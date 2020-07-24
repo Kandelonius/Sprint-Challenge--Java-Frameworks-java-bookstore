@@ -215,7 +215,7 @@ public class SeedData
 //
 //        System.out.println();
 //        System.out.println("***** Author Ids *****");
-//        System.out.println(a1.getFname() + " " + a1.getLname() + " " + a1.getAuthorid());
+        System.out.println(a1.getFname() + " " + a1.getLname() + " " + a1.getAuthorid());
 //        System.out.println(a2.getFname() + " " + a2.getLname() + " " + a2.getAuthorid());
 //        System.out.println(a3.getFname() + " " + a3.getLname() + " " + a3.getAuthorid());
 //        System.out.println(a4.getFname() + " " + a4.getLname() + " " + a4.getAuthorid());
